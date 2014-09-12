@@ -1,0 +1,13 @@
+﻿.select-wrapper {
+float: left;
+display: inline-block;
+border: 1px solid #eaeaea;
+background: url('bg-new-v1.png') -170px 0;
+cursor: pointer;
+border-radius: 2px;
+width: 86px;
+height: 29px;
+font: 700 12px arial;
+color: #333;
+margin: 3px;
+}
